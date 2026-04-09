@@ -1,1 +1,0 @@
-import{_ as r,o as t,c as n,f as s,a as c,r as a}from"./index-BvaEdalB.js";const _={};function d(f,e){const o=a("router-view");return t(),n("div",null,[e[0]||(e[0]=s("123 ",-1)),c(o)])}const l=r(_,[["render",d]]);export{l as default};
